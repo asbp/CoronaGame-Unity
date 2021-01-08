@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7701b2d61dcf0aa4d883d235f2697a9e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerTrans: {instanceID: 0}
+  - scoreUI: {fileID: 8387997282669236410, guid: 7b70542620dda864ea6832c334c3b38b,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
